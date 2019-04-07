@@ -1,0 +1,137 @@
+/* Note to students: Some properties are given to you to fill out,
+
+others you can modify as they stand, and if you have time,
+
+there are definitely some properties you should add!*/
+
+
+
+html {
+
+    height: 100%;
+
+  }
+
+  body {
+
+     width: 800px;
+     background-color: rgb(199, 214, 247);
+     height: 100%;
+
+  }
+
+
+
+  header {
+
+      background: url(SeattleSkyline.jpg);      
+      padding: 10px;
+      font-size: 20px;
+      color: black;
+      text-align: center;
+      width: 125%;
+
+  }
+
+  nav {
+
+      float: left;
+      background-color: rgb(174, 243, 174);
+      width: 128%;
+
+  }
+
+  nav ul {
+
+      padding: ;
+
+      float: left;
+
+      border-bottom: ;
+
+      list-style-type: none;
+
+  }
+
+  nav li {
+
+      float: left;
+
+  }
+
+  nav li a {
+
+      display: block;
+
+      height: 25px;
+
+      padding: 12px 18px 8px 18px;
+
+      vertical-align: middle;
+
+  }
+
+  a {
+
+      color: ;
+
+  }
+
+  section {
+
+      width: 110%;
+      display: inline-block;
+      /* float: left; */
+      /* height: 300px;
+        -webkit-columns: 4;
+         -moz-columns: 4;
+          columns: 4;
+         -moz-column-fill: balance;
+       column-fill: balance; */
+
+  }
+  article {
+      width: 250px;
+      display: inline-block;
+      outline: 5px dashed red;
+  }
+  image {
+      width: 150px;
+  }    
+  H2 {
+    font: normal small-caps normal 16px/1.4 cursive;
+  }
+
+  aside {
+
+      width: 17%;
+
+      display: inline-block;
+
+      background-color:;
+
+      padding:;
+
+      min-height: 100%;
+
+  }
+
+  aside ul {
+
+      list-style-type: none;
+
+  }
+
+  footer {
+
+      width: 790px;
+
+      background-color:;
+
+      color:;
+
+      clear: both;
+
+      display: block;
+
+  }
